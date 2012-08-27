@@ -17,7 +17,7 @@ To remove a mask from an element(s)
 ## Options
 
 * opacity - The transparency of the overlay (**Default is 0.8**)
-* backgroundColor - The backgrond colour of the overlay (**Default is #ccc**)
+* backgroundColour - The backgrond colour of the overlay (**Default is #ccc**)
 * zIndex - The z-index of the overlay (**Default is 9999**)
 
 ## Roadmap

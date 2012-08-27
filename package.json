@@ -1,0 +1,21 @@
+{
+    "name"          : "jquery-mask",
+    "version"       : "0.5.0",
+    "description"   : "jQuery utility for masking any dom element with an overlay of the same size",
+    "keywords"      : [ "jquery", "mask", "dom", "overlay" ],
+    "author"        : "Uplift (http://upliftingcode.com)",
+    "bugs"          : {
+                        "web"   : "http://github.com/uplift/jquery-mask/issues"
+                    },
+    "licenses"      : [{
+                        "type"  : "MIT",
+                        "url"   : "http://opensource.org/licenses/mit-license.php"
+                    }],
+    "repositories"  : [{
+                        "type"  : "git",
+                        "url"   : "http://github.com/uplift/jquery-mask.git"
+                    }],
+    "dependencies"  : {
+                        "jquery": [ "1.8" ]
+                    }
+}

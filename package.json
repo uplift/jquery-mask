@@ -5,7 +5,7 @@
     "keywords"      : [ "jquery", "mask", "dom", "overlay" ],
     "author"        : "Uplift (http://upliftingcode.com)",
     "bugs"          : {
-                        "web"   : "http://github.com/uplift/jquery-mask/issues"
+                        "web"   : "https://github.com/uplift/jquery-mask/issues"
                     },
     "licenses"      : [{
                         "type"  : "MIT",
@@ -13,7 +13,7 @@
                     }],
     "repositories"  : [{
                         "type"  : "git",
-                        "url"   : "http://github.com/uplift/jquery-mask.git"
+                        "url"   : "https://github.com/uplift/jquery-mask.git"
                     }],
     "dependencies"  : {
                         "jquery": [ "1.8" ]
